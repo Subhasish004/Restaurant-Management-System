@@ -1,1 +1,1 @@
-# Restaurant-Management-System-JDBC-JSP-
+# Restaurant-Management-System-JDBC-JSP
