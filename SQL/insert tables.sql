@@ -1,0 +1,13 @@
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('1', '1', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('2', '2', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('3', '3', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('4', '4', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('5', '5', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('6', '2', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('7', '5', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('8', '3', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('9', '5', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('10', '4', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('11', '4', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('12', '1', '1');
+INSERT INTO `hotelmanagement`.`rtable` (`tableid`, `capacity`, `available`) VALUES ('13', '1', '1');
